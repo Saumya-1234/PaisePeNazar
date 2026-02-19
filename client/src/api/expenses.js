@@ -10,7 +10,7 @@ const getAPIBase = () => {
     }
     
     // Production - use absolute URL
-    return 'https://expense-tracker-sri4.onrender.com/api';
+    return 'https://paise-pe-nazar.onrender.com/api';
 };
 
 const API_BASE = getAPIBase();
